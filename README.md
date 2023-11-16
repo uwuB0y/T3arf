@@ -1,2 +1,2 @@
 # T3arf
-Telegram bot to meet new friends!
+Telegram bot to meet new friends! with Professional Admin Panel
